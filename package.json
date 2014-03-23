@@ -1,0 +1,9 @@
+{
+  "name": "nodecopter-workshop",
+  "version": "0.0.1",
+  "author": "Vegard Veiset <veiset@gmail.com>",
+  "description": "Boilerplate code for a nodecopter workshop",
+  "dependencies": {
+    "ar-drone": "0.3.1"
+  }
+}
