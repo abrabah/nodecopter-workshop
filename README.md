@@ -1,0 +1,4 @@
+nodecopter-workshop
+===================
+
+node-workshop
