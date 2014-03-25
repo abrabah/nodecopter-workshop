@@ -25,3 +25,10 @@ Run the sample code
 ```
 node sample.js
 ```
+
+Useful links
+------------
+nodejs: http://nodejs.org/    
+ar-drone api: https://github.com/felixge/node-ar-drone    
+ar-drone modules: http://nodecopter.com/hack
+
