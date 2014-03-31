@@ -35,5 +35,5 @@ ar-drone modules (github): https://github.com/nodecopter/nodecopter.com/blob/gh-
 ukulelecopter: https://github.com/veiset/ukulelecopter
 
 
-Youtube from the workshop: https://www.youtube.com/watch?v=WwhzyWXvwGc
+Video from the workshop (26.03.2014): https://www.youtube.com/watch?v=WwhzyWXvwGc
 
