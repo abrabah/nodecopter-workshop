@@ -34,3 +34,6 @@ ar-drone modules: http://nodecopter.com/hack
 ar-drone modules (github): https://github.com/nodecopter/nodecopter.com/blob/gh-pages/hack.md    
 ukulelecopter: https://github.com/veiset/ukulelecopter
 
+
+Youtube from the workshop: https://www.youtube.com/watch?v=WwhzyWXvwGc
+
