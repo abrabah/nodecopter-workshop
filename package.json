@@ -4,7 +4,7 @@
   "author": "Vegard Veiset <veiset@gmail.com>",
   "description": "Boilerplate code for a nodecopter workshop",
   "dependencies": {
-    "ar-drone": "0.3.1",
+    "ar-drone": "0.3.2",
     "leapjs": "~0.4.3"
   }
 }
